@@ -1,0 +1,12 @@
+{
+    "name": "adrianrondon/post",
+    "description": "Reto del curso de POO de php",
+    "autoload": {
+        "psr-4": {
+            "Blog\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
